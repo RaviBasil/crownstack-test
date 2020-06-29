@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "//ravibasil.github.io/.github.io/crownstack-test/static/css/main.5367f753.chunk.css",
-    "main.js": "//ravibasil.github.io/.github.io/crownstack-test/static/js/main.f6ec49eb.chunk.js",
-    "main.js.map": "//ravibasil.github.io/.github.io/crownstack-test/static/js/main.f6ec49eb.chunk.js.map",
-    "runtime-main.js": "//ravibasil.github.io/.github.io/crownstack-test/static/js/runtime-main.201da8ef.js",
-    "runtime-main.js.map": "//ravibasil.github.io/.github.io/crownstack-test/static/js/runtime-main.201da8ef.js.map",
-    "static/js/2.11fd327c.chunk.js": "//ravibasil.github.io/.github.io/crownstack-test/static/js/2.11fd327c.chunk.js",
-    "static/js/2.11fd327c.chunk.js.map": "//ravibasil.github.io/.github.io/crownstack-test/static/js/2.11fd327c.chunk.js.map",
-    "index.html": "//ravibasil.github.io/.github.io/crownstack-test/index.html",
-    "precache-manifest.e070e89b0dfad6d500aa2596a48edec8.js": "//ravibasil.github.io/.github.io/crownstack-test/precache-manifest.e070e89b0dfad6d500aa2596a48edec8.js",
-    "service-worker.js": "//ravibasil.github.io/.github.io/crownstack-test/service-worker.js",
-    "static/css/main.5367f753.chunk.css.map": "//ravibasil.github.io/.github.io/crownstack-test/static/css/main.5367f753.chunk.css.map",
-    "static/js/2.11fd327c.chunk.js.LICENSE.txt": "//ravibasil.github.io/.github.io/crownstack-test/static/js/2.11fd327c.chunk.js.LICENSE.txt"
+    "main.css": "/crownstack-test/static/css/main.5367f753.chunk.css",
+    "main.js": "/crownstack-test/static/js/main.61dd2359.chunk.js",
+    "main.js.map": "/crownstack-test/static/js/main.61dd2359.chunk.js.map",
+    "runtime-main.js": "/crownstack-test/static/js/runtime-main.62bbecb3.js",
+    "runtime-main.js.map": "/crownstack-test/static/js/runtime-main.62bbecb3.js.map",
+    "static/js/2.11fd327c.chunk.js": "/crownstack-test/static/js/2.11fd327c.chunk.js",
+    "static/js/2.11fd327c.chunk.js.map": "/crownstack-test/static/js/2.11fd327c.chunk.js.map",
+    "index.html": "/crownstack-test/index.html",
+    "precache-manifest.93b93037d9df52d9f8ecfc5600acfb58.js": "/crownstack-test/precache-manifest.93b93037d9df52d9f8ecfc5600acfb58.js",
+    "service-worker.js": "/crownstack-test/service-worker.js",
+    "static/css/main.5367f753.chunk.css.map": "/crownstack-test/static/css/main.5367f753.chunk.css.map",
+    "static/js/2.11fd327c.chunk.js.LICENSE.txt": "/crownstack-test/static/js/2.11fd327c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.201da8ef.js",
+    "static/js/runtime-main.62bbecb3.js",
     "static/js/2.11fd327c.chunk.js",
     "static/css/main.5367f753.chunk.css",
-    "static/js/main.f6ec49eb.chunk.js"
+    "static/js/main.61dd2359.chunk.js"
   ]
 }
